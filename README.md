@@ -14,7 +14,10 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me :- 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=800&color=00FF9C&background=0D1117&width=800&lines=%24+const+shivam+%3D+%7B;%20+location%3A+%22Mumbai%2C+India+%F0%9F%87%AE%F0%9F%87%B3%22%2C;%20+company%3A+%22Rath+Infotech%22%2C;%20+role%3A+%22Associate+Web+Developer%22%2C;%20+experience%3A+%221%2B+year+in+production+systems%22%2C;%20+expertise%3A+%5B%22React.js%22%2C+%22Next.js%22%2C+%22Node.js%22%2C+%22System+Design%22%5D%2C;%20+currentFocus%3A+%5B%22Performance+Optimization%22%2C+%22DSA%22%2C+%22Scalable+Architecture%22%5D%2C;%20+openTo%3A+%22Full-Stack+%2F+React+Developer+roles%22%2C;%20+noticePeriod%3A+%2230+days%22%2C;%20+funFact%3A+%22Reduced+manual+work+from+1+week+to+1+hour+%E2%9A%A1%22;%20%7D;" />
+
+
 
 
 
@@ -37,9 +40,6 @@ const shivam = {
 
 
 ```
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=800&color=00FF9C&background=0D1117&width=800&lines=%24+const+shivam+%3D+%7B;%20+location%3A+%22Mumbai%2C+India+%F0%9F%87%AE%F0%9F%87%B3%22%2C;%20+company%3A+%22Rath+Infotech%22%2C;%20+role%3A+%22Associate+Web+Developer%22%2C;%20+experience%3A+%221%2B+year+in+production+systems%22%2C;%20+expertise%3A+%5B%22React.js%22%2C+%22Next.js%22%2C+%22Node.js%22%2C+%22System+Design%22%5D%2C;%20+currentFocus%3A+%5B%22Performance+Optimization%22%2C+%22DSA%22%2C+%22Scalable+Architecture%22%5D%2C;%20+openTo%3A+%22Full-Stack+%2F+React+Developer+roles%22%2C;%20+noticePeriod%3A+%2230+days%22%2C;%20+funFact%3A+%22Reduced+manual+work+from+1+week+to+1+hour+%E2%9A%A1%22;%20%7D;" />
-</p>
 
 ---
 
